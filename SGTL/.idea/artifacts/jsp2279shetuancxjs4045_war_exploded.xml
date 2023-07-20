@@ -1,0 +1,20 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="jsp2279shetuancxjs4045:war exploded">
+    <output-path>$PROJECT_DIR$/classes/artifacts/jsp2279shetuancxjs4045_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="jsp2279shetuancxjs4045" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="module" name="jspsmartupload.jar" module-name="jsp2279shetuancxjs4045" />
+          <element id="library" level="module" name="msbase.jar" module-name="jsp2279shetuancxjs4045" />
+          <element id="library" level="module" name="mssqlserver.jar" module-name="jsp2279shetuancxjs4045" />
+          <element id="library" level="module" name="msutil.jar" module-name="jsp2279shetuancxjs4045" />
+          <element id="library" level="module" name="sqljdbc.jar" module-name="jsp2279shetuancxjs4045" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="jsp2279shetuancxjs4045/web/Web" />
+    </root>
+  </artifact>
+</component>

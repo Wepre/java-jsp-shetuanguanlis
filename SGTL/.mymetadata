@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="jsp2279shetuancxjs4045"
+  id="myeclipse.1228091700906"
+  context-root="/jsp2279shetuancxjs4045"
+  j2ee-spec="1.4"
+  archive="jsp2279shetuancxjs4045.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
